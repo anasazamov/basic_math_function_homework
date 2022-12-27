@@ -1,5 +1,5 @@
 from math import pi
-def main(a=pi):
+def main(a):
     '''Assign the value pi to the parametr "a". Round the result to 2 decimal places and return it.
     
     Args:
@@ -8,6 +8,7 @@ def main(a=pi):
     Returns:
         float: the result.
     '''
+    a=pi
     result=round(a,2)
     return result
 print(main())
