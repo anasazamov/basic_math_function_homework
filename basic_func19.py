@@ -3,7 +3,7 @@ def main(a, b):
     
     Args:
         a (int): a number
-        b (int): a number
+        b (int): a num  ber
         
     Returns:
         int: the result.
