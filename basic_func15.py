@@ -8,4 +8,6 @@ def main(a, b):
     Returns:
         int: the result.
     '''
-    return
+    return a%b
+a,b=15,65
+print(main(a,b))

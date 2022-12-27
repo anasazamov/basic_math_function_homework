@@ -7,4 +7,6 @@ def main(a):
     Returns:
         int: the absolute value.
     '''
-    return
+    return abs(a)
+a=-5165161.541651984984
+print (main(a))
