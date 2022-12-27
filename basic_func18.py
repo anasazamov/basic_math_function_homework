@@ -8,5 +8,6 @@ def main(a=pi):
     Returns:
         float: the result.
     '''
-    return round(a,2)
+    result=round(a,2)
+    return result
 print(main())
