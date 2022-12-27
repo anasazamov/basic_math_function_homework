@@ -9,4 +9,5 @@ def main(a):
         float: the result.
     '''
     return round(a,2)
-print(main(pi))
+a=pi
+print(main(a))
